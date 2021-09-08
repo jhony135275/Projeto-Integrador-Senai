@@ -1,5 +1,4 @@
 <?php
-
     include_once("../db/conexao.php");
     session_start();
 
